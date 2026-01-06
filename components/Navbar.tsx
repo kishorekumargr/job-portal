@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className="w-full bg-black text-white px-6 py-4 flex items-center justify-between">
       <div className="flex items-center gap-8">
-        <h1 className="text-xl font-semibold">LuckyJob</h1>
+        <h1 className="text-xl font-semibold">HireMee</h1>
 
         <ul className="hidden md:flex items-center gap-6 text-sm opacity-90">
           <li>Find job</li>
